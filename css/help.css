@@ -1,0 +1,48 @@
+.answer1,.answer2,.answer3,.answer4,.answer5,.answer6,.answer7,.answer8,.answer9,.answer10,.answer11,.answer12,.answer13{
+    display:none;
+    }
+
+h1 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    margin-left: 50px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 30px; 
+    margin-top: 50px;
+}
+
+.accountPanel {
+    text-decoration: underline;
+}
+
+    .bg-grey {
+        background-color: #ffffff;
+    }
+    .bolder{
+      font-weight:Bold;
+    }
+
+  .faqs,.walkthrough{padding:25px;}
+   
+  .que{
+      color: rgb(0, 0, 0);
+      font-family:Segoe UI;
+      font-size:16px;
+  }
+  .que:hover{
+      text-decoration:underline;
+      color:rgb(171, 6, 6);
+  }
+  
+  .accountPanel:hover, .orderPanel:hover, .returnRefundPanel:hover, .paymentPanel:hover{ 
+      font-weight: bold;
+  }
+
+  .inf {
+      margin-top: 50px;
+  }
